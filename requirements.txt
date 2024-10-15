@@ -1,0 +1,11 @@
+transformers==git+https://github.com/huggingface/transformers
+accelerate
+tiktoken
+einops
+transformers_stream_generator==0.0.4
+scipy
+torchvision
+pillow
+tensorboard
+matplotlib
+qwen_vl_utils==0.0.8
